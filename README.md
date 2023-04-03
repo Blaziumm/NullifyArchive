@@ -1,5 +1,7 @@
 <h1 align="center">Nullify</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
+<p align="center">Archived By Blaziumm</a>
+
 <p align="center">By <a href="https://github.com/flowingsalt">flowings</a>, <a href="https://github.com/cupiditys">cupiditys</a>, <a href="https://github.com/sysplu">sysplu</a>, and <a href="https://github.com/TonicGaro">TonicGaro</a>
 
 <p align="center">
